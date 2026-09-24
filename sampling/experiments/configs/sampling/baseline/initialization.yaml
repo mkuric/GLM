@@ -1,0 +1,5 @@
+student-t:
+  df: 6.
+  hr: 20.
+
+norm_list: [1, 5, 10, 15]
