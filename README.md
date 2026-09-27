@@ -198,3 +198,8 @@ The paper has been accepted for publication in the SIAM Journal on Imaging Scien
 }
 ```
 
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+Note that the MIT License covers only the source code. The image patches in `samples_bsd500.pth` are taken from the [Berkeley Segmentation Dataset (BSDS500)](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html) and remain subject to the copyright and terms of use of the original dataset, which permits research use only. The same applies to the image prior, which was learned from BSDS500 patches.

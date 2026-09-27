@@ -1,0 +1,38 @@
+MIT License
+
+Copyright (c) 2025 Muhamed Kuric and Martin Zach, Institute of Visual Computing, Graz University of Technology
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+--------------------------------------------------------------------------------
+
+Third-party data
+
+The MIT License above covers only the source code in this repository. It does
+not cover the image data in `samples_bsd500.pth`, which consists of image
+patches taken from the Berkeley Segmentation Dataset (BSDS500):
+
+    https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html
+
+The copyright in these images remains with their respective owners, and the
+data is provided solely under the terms of use of the original dataset. In
+particular, the BSDS500 images are distributed for research purposes only. Any
+use of the image data beyond those terms is not permitted by this license. The
+image prior distributed with this repository was learned from BSDS500 patches;
+its use is likewise subject to the same terms.
