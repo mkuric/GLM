@@ -1,0 +1,33 @@
+{
+  "title": "GLM: The Gaussian Latent Machine — Efficient Prior and Posterior Sampling for Inverse Problems",
+  "description": "Complete source code to reproduce all experimental results from the paper \"The Gaussian Latent Machine: Efficient Prior and Posterior Sampling for Inverse Problems\" (arXiv:2505.12836, accepted at the SIAM Journal on Imaging Sciences). Developed as part of NEO (Next Generation Molecular Data Storage), Horizon Europe grant agreement No. 101115317.",
+  "creators": [
+    {
+      "name": "Kuric, Muhamed",
+      "affiliation": "Graz University of Technology"
+    },
+    {
+      "name": "Zach, Martin",
+      "affiliation": "Graz University of Technology"
+    }
+  ],
+  "keywords": [
+    "inverse problems",
+    "Bayesian imaging",
+    "posterior sampling",
+    "Gibbs sampling",
+    "Gaussian scale mixtures",
+    "image priors",
+    "Markov chain Monte Carlo"
+  ],
+  "license": "mit",
+  "upload_type": "software",
+  "access_right": "open",
+  "language": "eng",
+  "version": "1.0.0",
+  "grants": [
+    {
+      "id": "10.13039/501100000780::101115317"
+    }
+  ]
+}
